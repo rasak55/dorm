@@ -1,0 +1,1 @@
+id,room_id,tenant_id,bill_month,bill_year,rent_amount,electric_units,electric_amount,water_units,water_amount,other_amount,other_description,total_amount,due_date,status,notes,created_at,updated_at

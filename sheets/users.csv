@@ -1,0 +1,2 @@
+id,username,password_hash,full_name,role,created_at
+1,admin,8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918,ผู้ดูแลระบบ,admin,2026-01-01 00:00:00
