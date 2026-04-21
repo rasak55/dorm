@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/xampp/htdocs/dorm/**)",
+      "Bash(\"D:/xampp/php/php.exe\" --version)",
+      "Bash(D:/xampp/php/php.exe -r ':*)",
+      "Read(//d/project/php-docs/**)",
+      "Bash(grep -E \"\\\\.php$\")",
+      "Bash(ls d:/project/dorm/*.php)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)"
+    ],
+    "additionalDirectories": [
+      "D:\\xampp\\htdocs\\dorm",
+      "d:\\project\\dorm"
+    ]
+  }
+}
